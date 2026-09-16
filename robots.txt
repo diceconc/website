@@ -4,4 +4,4 @@ Allow: /
 # No crawl traps on this site — everything is static HTML.
 Disallow: /404.html
 
-Sitemap: https://diceconc.com.au/sitemap.xml
+Sitemap: https://diceconstru.com/sitemap.xml

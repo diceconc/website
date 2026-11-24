@@ -334,7 +334,7 @@
         ? "Quote request from " + (data.name || "website visitor")
         : "Website enquiry from " + (data.name || "website visitor");
       var lines = [
-        isQuote ? "New quote request — Dice Concrete Solutions" : "New general enquiry — Dice Concrete Solutions",
+        isQuote ? "New quote request — Dice Construction Solutions" : "New general enquiry — Dice Construction Solutions",
         "",
         "Name: " + (data.name || "-"),
         "Company: " + (data.company || "-"),
